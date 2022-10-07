@@ -31,7 +31,10 @@ de.hybris.platform.acceleratorservices.config.impl.DefaultSiteConfigService
 - HtmlMetaTag Tag Library
 - Save Cart Support
 
-
+### acceleratorstorefrontcommons AddOn
+- Cart Restoration Strategies
+- ConfigureForm Class
+ 
 
 
 
